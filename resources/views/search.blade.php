@@ -41,7 +41,7 @@
         <div class="max-w-8xl mx-auto sm:px-2 lg:px-4">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="max-w-8xl mx-auto sm:px-2 lg:px-4">
-                    <h3 class="text-indigo-500 p-3">Your search returned {{$total ?? ''}} {{$total ?? '' == 1 ? "result" : "results"}} | {{$pages}} pages </h3>
+                    <h3 class="text-indigo-500 p-3">Your search returned {{$total ?? ''}} {{$total == 1 ? "result" : "results"}} | {{$pages}} pages </h3>
                     @if($pages ?? 0 > 1)
                         <div class="p-3">
                             @if($currentPage == 1)
