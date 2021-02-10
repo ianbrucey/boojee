@@ -1,0 +1,73 @@
+{
+  "kind": "books#volume",
+  "id": "pHwcjgEACAAJ",
+  "etag": "ZZVg3SsCdMw",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/pHwcjgEACAAJ",
+  "volumeInfo": {
+    "title": "The Water Book",
+    "authors": [
+      "Alok Jha"
+    ],
+    "publisher": "Headline Publishing Group",
+    "publishedDate": "2016-05-19",
+    "description": "\"Water is the most every day of substances. It pours from our taps and falls from the sky. We drink it, wash with it, and couldn't live without it. Yet, on closer examination it is also a very strange substance (it is one of only a very small number of molecules which expand when cooled). Look closer again and water reveals itself as a key to a scientific story on the biggest of canvases. Water is crucial to our survival - life depends on it - but it was also fundamental in the origins of life on Earth. The millions of gallons of water which make up our rivers, lakes and oceans, originated in outer space. How it arrived here and how those molecules of water were formed, is a story which takes us back to the beginning of the universe. Indeed, we know more about the depths of space than we do about the furthest reaches of the oceans. Water has also shaped the world we live in. Whether it is by gently carving the Grand Canyon over millennia, or in shaping how civilisations were built; we have settled our cities along rivers and coasts. Scientific studies show how we feel calmer and more relaxed when next to water. We holiday by the seas and lakes. Yet one day soon wars may be fought over access to water. The Water Book will change the way you look at water. After reading it you will be able to hold a glass of water up to the light and see within it a strange molecule that connects you to the origins of life, the birth (and death) of the universe, and to everyone who ever lived.\"--From publisher.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1472209532"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781472209535"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 384,
+    "printedPageCount": 384,
+    "dimensions": {
+      "height": "19.60 cm",
+      "width": "12.80 cm",
+      "thickness": "2.50 cm"
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=pHwcjgEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE701J62DMakwuSYIoRSKhK5McMu55c6_cp-vc6LFxZky1RMucfpdz7Kkj-Vo0DoR1zbxmLh045F5MLmx7MX7eorMI4F1w_J153_d5LwXswGsFfWMG6L_Rbl971n3_iSAtHpD-2xb&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=pHwcjgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70K_FmsGEuFC_UkLWDSlsCeoZdrfi9m6CdVOyIkRPSOHEzmvizAA5Y4yCNbWGDfaemXvqdifu9GF02f8F9bLJUHc0gvOJEyty9VT-73nvPuh0wHgP9zmUmsklHEw0HEhI4uBSgZ&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pHwcjgEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pHwcjgEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pHwcjgEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pHwcjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

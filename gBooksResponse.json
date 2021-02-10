@@ -1,0 +1,815 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2681,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pHwcjgEACAAJ",
+      "etag": "DinJ1iS+/UY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pHwcjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Water Book",
+        "authors": [
+          "Alok Jha"
+        ],
+        "publishedDate": "2016-05-19",
+        "description": "Water is the most every day of substances. It pours from our taps and falls from the sky. We drink it, wash with it, and couldn't live without it. Yet, on closer examination it is also a very strange substance (it is one of only a very small number of molecules which expand when cooled). Look closer again and water reveals itself as a key to a scientific story on the biggest of canvases. Water is crucial to our survival - life depends on it - but it was also fundamental in the origins of life on Earth. The millions of gallons of water which make up our rivers, lakes and oceans, originated in outer space. How it arrived here and how those molecules of water were formed, is a story which takes us back to the beginning of the universe. Indeed, we know more about the depths of space than we do about the furthest reaches of the oceans. Water has also shaped the world we live in. Whether it is by gently carving the Grand Canyon over millennia, or in shaping how civilisations were built; we have settled our cities along rivers and coasts. Scientific studies show how we feel calmer and more relaxed when next to water. We holiday by the seas and lakes. Yet one day soon wars may be fought over access to water. The Water Book will change the way you look at water. After reading it you will be able to hold a glass of water up to the light and see within it a strange molecule that connects you to the origins of life, the birth (and death) of the universe, and to everyone who ever lived.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1472209532"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781472209535"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Hydrologic cycle"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pHwcjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pHwcjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pHwcjgEACAAJ&dq=water&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pHwcjgEACAAJ&dq=water&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Water_Book.html?hl=&id=pHwcjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pHwcjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Scientific studies show how we feel calmer and more relaxed when next to water. We holiday by the seas and lakes. Yet one day soon wars may be fought over access to water. The Water Book will change the way you look at water."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lfAFVtz-at8C",
+      "etag": "ow0NIdv8bQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lfAFVtz-at8C",
+      "volumeInfo": {
+        "title": "This Is Water",
+        "subtitle": "Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life",
+        "authors": [
+          "David Foster Wallace"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2009-04-14",
+        "description": "In this rare peak into the personal life of the author of numerous bestselling novels, gain an understanding of David Foster Wallace and how he became the man that he was. Only once did David Foster Wallace give a public talk on his views on life, during a commencement address given in 2005 at Kenyon College. The speech is reprinted for the first time in book form in This is Water. How does one keep from going through their comfortable, prosperous adult life unconsciously? How do we get ourselves out of the foreground of our thoughts and achieve compassion? The speech captures Wallace's electric intellect as well as his grace in attention to others. After his death, it became a treasured piece of writing reprinted in The Wall Street Journal and the London Times, commented on endlessly in blogs, and emailed from friend to friend. Writing with his one-of-a-kind blend of causal humor, exacting intellect, and practical philosophy, David Foster Wallace probes the challenges of daily living and offers advice that renews us with every reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316071000"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316071005"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 19,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.8.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lfAFVtz-at8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lfAFVtz-at8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lfAFVtz-at8C&printsec=frontcover&dq=water&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lfAFVtz-at8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lfAFVtz-at8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lfAFVtz-at8C&rdid=book-lfAFVtz-at8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/This_Is_Water-sample-epub.acsm?id=lfAFVtz-at8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lfAFVtz-at8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Only once did David Foster Wallace give a public talk on his views on life, during a commencement address given in 2005 at Kenyon College. The speech is reprinted for the first time in book form in This is Water."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BPFiBgAAQBAJ",
+      "etag": "yh8W62qiUkw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BPFiBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Water Is Water",
+        "subtitle": "A Book About the Water Cycle",
+        "authors": [
+          "Miranda Paul"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2015-05-26",
+        "description": "\"A spare, poetic picture book exploring the different phases of the water cycle in surprising and engaging ways\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781596439849"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "159643984X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "JUVENILE NONFICTION"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BPFiBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BPFiBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BPFiBgAAQBAJ&printsec=frontcover&dq=water&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BPFiBgAAQBAJ&dq=water&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Water_Is_Water.html?hl=&id=BPFiBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BPFiBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A spare, poetic picture book exploring the different phases of the water cycle in surprising and engaging ways&quot;--"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TNmMDAEACAAJ",
+      "etag": "xr2rg2SFsN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TNmMDAEACAAJ",
+      "volumeInfo": {
+        "title": "Working the Water",
+        "authors": [
+          "Jay Fleming"
+        ],
+        "publishedDate": "2016-10-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0997746807"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780997746808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TNmMDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TNmMDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TNmMDAEACAAJ&dq=water&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TNmMDAEACAAJ&dq=water&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Working_the_Water.html?hl=&id=TNmMDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TNmMDAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A certain mystique has always surrounded watermen of the Chesapeake Bay, but this book goes far toward dispelling it by taking the reader on a journey with the watermen as they harvest oysters, clams, fish, and crabs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QzyLDwAAQBAJ",
+      "etag": "hHobMyqKLCY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QzyLDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Troubled Water",
+        "subtitle": "What's Wrong with What We Drink",
+        "authors": [
+          "Seth M. Siegel"
+        ],
+        "publisher": "Thomas Dunne Books",
+        "publishedDate": "2019-10-01",
+        "description": "New York Times bestselling author Seth M. Siegel shows how our drinking water got contaminated, what it may be doing to us, and what we must do to make it safe. If you thought America’s drinking water problems started and ended in Flint, Michigan, think again. From big cities and suburbs to the rural heartland, chemicals linked to cancer, heart disease, obesity, birth defects, and lowered IQ routinely spill from our taps. Many are to blame: the EPA, Congress, a bipartisan coalition of powerful governors and mayors, chemical companies, and drinking water utilities—even NASA and the Pentagon. Meanwhile, the bottled water industry has been fanning our fears about tap water, but bottled water is often no safer. The tragedy is that existing technologies could launch a new age of clean, healthy, and safe tap water for only a few dollars a week per person. Scrupulously researched, Troubled Water is full of shocking stories about contaminated water found throughout the country and about the everyday heroes who have successfully forced changes in the quality and safety of our drinking water. And it concludes with what America must do to reverse decades of neglect and play-it-safe inaction by government at all levels in order to keep our most precious resource safe.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250132550"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "125013255X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QzyLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QzyLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QzyLDwAAQBAJ&printsec=frontcover&dq=water&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QzyLDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QzyLDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QzyLDwAAQBAJ&rdid=book-QzyLDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Troubled_Water-sample-epub.acsm?id=QzyLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QzyLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Scrupulously researched, Troubled Water is full of shocking stories about contaminated water found throughout the country and about the everyday heroes who have successfully forced changes in the quality and safety of our drinking water."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8nbLGQw5fckC",
+      "etag": "Fy49oyBkUmk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8nbLGQw5fckC",
+      "volumeInfo": {
+        "title": "Destructive Water",
+        "subtitle": "Water-Caused Natural Disasters, Their Abatement and Control",
+        "authors": [
+          "George H. Leavesley"
+        ],
+        "publisher": "IAHS Press",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1901502007"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781901502008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "categories": [
+          "Hydrology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8nbLGQw5fckC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8nbLGQw5fckC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8nbLGQw5fckC&pg=PA3&dq=water&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8nbLGQw5fckC&dq=water&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Destructive_Water.html?hl=&id=8nbLGQw5fckC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8nbLGQw5fckC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ARTHUR J. ASKEW Hydrology and \u003cb\u003eWater\u003c/b\u003e Resources Department, World \u003cbr\u003e\nMeteorological Organization, CP 2300. CH-1211 Geneva 2, Switzerland Abstract \u003cbr\u003e\nThe International Decade for Natural Disaster Reduction (IDNDR) was launched \u003cbr\u003e\nby the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_NtEAAAAMAAJ",
+      "etag": "xR64ughBC2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_NtEAAAAMAAJ",
+      "volumeInfo": {
+        "title": "American Steam and Hot-water Heating Practice",
+        "authors": [
+          "Engineering Record, Building Record and Sanitary Engineer"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89088904552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Hot-water heating"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_NtEAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_NtEAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_NtEAAAAMAAJ&pg=PA295&dq=water&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_NtEAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_NtEAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_NtEAAAAMAAJ&rdid=book-_NtEAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/American_Steam_and_Hot_water_Heating_Pra.epub?id=_NtEAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/American_Steam_and_Hot_water_Heating_Pra.pdf?id=_NtEAAAAMAAJ&hl=&output=pdf&sig=ACfU3U185aNfOT5x7scq1MVYLheHbrHX_g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_NtEAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "tain the \u003cb\u003ewater\u003c/b\u003e in the pipes and keep them constantly full . Suppose the top of your \u003cbr\u003e\ncoil is 20 feet above the \u003cb\u003ewater\u003c/b\u003e line in the boiler . Then as long as you carry , say \u003cbr\u003e\n10 pounds of steam , or higher , the \u003cb\u003ewater\u003c/b\u003e coil will circulate . On the first floor&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A0nHvQ5imUMC",
+      "etag": "MxKVVMqMBO0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A0nHvQ5imUMC",
+      "volumeInfo": {
+        "title": "Water Sources",
+        "authors": [
+          "Paul Koch"
+        ],
+        "publisher": "American Water Works Association",
+        "publishedDate": "2011-01-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781613001134"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1613001134"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A0nHvQ5imUMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A0nHvQ5imUMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=A0nHvQ5imUMC&printsec=frontcover&dq=water&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A0nHvQ5imUMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A0nHvQ5imUMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 124,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 124,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=A0nHvQ5imUMC&rdid=book-A0nHvQ5imUMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 124000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 124000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Water_Sources-sample-epub.acsm?id=A0nHvQ5imUMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Water_Sources-sample-pdf.acsm?id=A0nHvQ5imUMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A0nHvQ5imUMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4rUXAAAAYAAJ",
+      "etag": "D2SoJPApvVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4rUXAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Water Desalination",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001867540"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Saline water conversion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4rUXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4rUXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4rUXAAAAYAAJ&pg=SA8-PA1&dq=water&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4rUXAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4rUXAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=4rUXAAAAYAAJ&rdid=book-4rUXAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Water_Desalination.epub?id=4rUXAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Water_Desalination.pdf?id=4rUXAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2uc6vECw-JNKPpwCdJSNUV0NKL7A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4rUXAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Illustrations of the strong acid cation resin hydrogen ion-cation exchange and the \u003cbr\u003e\nstrong base anion hydroxyl ion-anion exchange that occur in the complete \u003cbr\u003e\ndemineralization of \u003cb\u003ewater\u003c/b\u003e are shown in figure 8-1. 8-2. Pretreatment. Ion \u003cbr\u003e\nexchange&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KmpqCgAAQBAJ",
+      "etag": "068F7r6Wd20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KmpqCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Plastic Water",
+        "subtitle": "The Social and Material Life of Bottled Water",
+        "authors": [
+          "Gay Hawkins",
+          "Emily Potter",
+          "Kane Race"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2015-09-11",
+        "description": "How and why branded bottles of water have insinuated themselves into our daily lives, and what the implications are for safe urban water supplies. How did branded bottles of water insinuate themselves into our daily lives? Why did water become an economic good—no longer a common resource but a commercial product, in industry parlance a “fast moving consumer good,” or FMCG? Plastic Water examines the processes behind this transformation. It goes beyond the usual political and environmental critiques of bottled water to investigate its multiplicity, examining a bottle of water's simultaneous existence as, among other things, a product, personal health resource, object of boycotts, and part of accumulating waste matter. Throughout, the book focuses on the ontological dimensions of drinking bottled water—the ways in which this habit enacts new relations and meanings that may interfere with other drinking water practices. The book considers the assemblage and emergence of a mass market for water, from the invention of the polyethylene terephthalate (PET) bottle in 1973 to the development of “hydration science” that accompanied the rise of jogging in the United States. It looks at what bottles do in the world, tracing drinking and disposal practices in three Asian cities with unreliable access to safe water: Bangkok, Chennai, and Hanoi. And it considers the possibility of ethical drinking, examining campaigns to “say no” to the bottle and promote the consumption of tap water in Canada, the United States, and Australia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262329538"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262329530"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KmpqCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KmpqCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KmpqCgAAQBAJ&printsec=frontcover&dq=water&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KmpqCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KmpqCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KmpqCgAAQBAJ&rdid=book-KmpqCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Plastic_Water-sample-epub.acsm?id=KmpqCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Plastic_Water-sample-pdf.acsm?id=KmpqCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KmpqCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Throughout, the book focuses on the ontological dimensions of drinking bottled water—the ways in which this habit enacts new relations and meanings that may interfere with other drinking water practices."
+      }
+    }
+  ]
+}
