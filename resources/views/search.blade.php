@@ -11,7 +11,7 @@
                 <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                     <div class="max-w-8xl mx-auto sm:px-2 lg:px-4 p-5">
                         <form action="/book" method="GET">
-                            <input type="text" name="q" class="form-control" placeholder="Search keywords, categories oauthor names etc...">
+                            <input type="text" name="q" class="form-control" placeholder="Search keywords, categories, author names etc...">
                             <br>
                             <button class="btn btn-primary" type="submit">Find your book</button>
 
