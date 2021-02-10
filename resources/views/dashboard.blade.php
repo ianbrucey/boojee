@@ -200,7 +200,7 @@
                         }
                     });
                 } else {
-                    swal("Your imaginary file is safe!");
+                    swal("Cancelled. But not dogecoin though. .Dogecoin to the mooooooooon!!!");
                 }
 
             });
